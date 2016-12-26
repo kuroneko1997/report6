@@ -16,6 +16,6 @@ public class Enemy extends LivingThing {
 
 
     public void Fall(){
-        System.out.printf("勇者%sは道半ばで力尽きてしまった。\n", getName());
+        System.out.printf("スライムは消滅した。\n");
     }
 }
