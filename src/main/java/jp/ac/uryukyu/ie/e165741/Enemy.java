@@ -33,7 +33,7 @@ public class Enemy extends LivingThing {
         }
         return damage;
     }
-
+//kokookoko
 
     public void Fall(){
         System.out.printf("スライムは消滅した。\n");
